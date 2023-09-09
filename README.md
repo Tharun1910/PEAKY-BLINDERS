@@ -107,6 +107,14 @@
 
 
  <H3>FINALLY WE USED THE CLASSIFIER logistic regression GOT AN aacuracy 0.65</H3>
+
+
+ <br>
+ <h2> local host pictures</h2>
+ <img src='./1.jpg'><br>
+ <img src='./2.jpg'><br>
+ <img src='./3.jpg'><br>
+ <img src='./4.jpg'><br>
  <H3>DEPLOYED BY USING FLASK</H3>
   <H3>HOPE YOU UNDERSTAND</H3>  
      
