@@ -111,11 +111,15 @@
 
  <br>
  <h2> local host pictures</h2>
- <img src='./1.jpg'><br>
- <img src='./2.jpg'><br>
- <img src='./3.png'><br>
- <img src='./4.png'><br>
+ ![1](https://github.com/SURYAPRAKASHKALYANAM/PEAKY-BLINDERS/assets/115471106/78d7fb82-d78b-4569-8242-dc75b8f51430)
+
+ ![2](https://github.com/SURYAPRAKASHKALYANAM/PEAKY-BLINDERS/assets/115471106/e9989b41-99b7-415a-bc29-71da4f42ee3c)
+
+![3](https://github.com/SURYAPRAKASHKALYANAM/PEAKY-BLINDERS/assets/115471106/98eff3e8-e93b-45a3-9add-dd3e96539980)
+![4](https://github.com/SURYAPRAKASHKALYANAM/PEAKY-BLINDERS/assets/115471106/c6f0d23f-7d0c-4ab6-97f5-db5cd235d855)
+
  <H3>DEPLOYED BY USING FLASK</H3>
+
   <H3>HOPE YOU UNDERSTAND</H3>  
      
 
