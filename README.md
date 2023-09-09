@@ -68,6 +68,12 @@
 <li></li> -->
 </ol>
 
+<h3>Models Used</h3>
+<li>ML Models Stacking: I achieved good results by utilizing a stacking technique to combine various machine learning models in my project.</li>
+<li>Bert: While I initially considered using Transformers like BERT for my project, I encountered challenges due to the large dataset, as these models did not perform as effectively as expected.</li>
+<li>LSTM : Used LSTM but not fitted well.</li>
+<!-- <li></li>
+<li></li> -->
 
 <H2>RESULTS</H2>
  <!-- <br>
@@ -106,7 +112,7 @@
   </table> -->
 
 
- <H3>FINALLY WE USED THE CLASSIFIER LSTM MODEL AND GOT AN ACCURACY OF 0.65</H3>
+ <H3>FINALLY WE USED THE CLASSIFIER LOGISTIC REGRESSION(MULTI CLASSIFIER) AND GOT AN ACCURACY OF 0.65</H3>
 
 
  <br>
