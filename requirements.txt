@@ -3,7 +3,6 @@ Flask-Cors
 gunicorn
 uwsgi
 requests
-pickle
 numpy
 pandas
 scikit-learn
