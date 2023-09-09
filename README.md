@@ -112,7 +112,7 @@
   </table> -->
 
 
- <H3>FINALLY WE USED THE CLASSIFIER LOGISTIC REGRESSION(MULTI CLASSIFIER) AND GOT AN ACCURACY OF 0.65</H3>
+ <H3>FINALLY WE USED THE CLASSIFIER Multinomial Logistic Regression (Softmax Regression) extends binary logistic regression to handle problems with multiple classes by using the Softmax function to calculate class probabilities and selecting the class with the highest probability as the predicted class AND GOT AN ACCURACY OF 0.65</H3>
 
 
  <br>
