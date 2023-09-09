@@ -70,7 +70,7 @@
 
 
 <H2>RESULTS</H2>
- <br>
+ <!-- <br>
   <h3>USED CLASSIFIERS ARE:</h3>
   <table>
     <tr>
@@ -103,10 +103,10 @@
       <td>72.72581200169554</td>
       <td>88.32044418005156</td>
      </tr>
-  </table>
+  </table> -->
 
 
- <H3>FINALLY WE USED THE CLASSIFIER NAIVE BAYES THAT IS MULTINOMIALNB GOT AN MCC OF 85.7</H3>
+ <H3>FINALLY WE USED THE CLASSIFIER logistic regression GOT AN aacuracy .7</H3>
  <H3>DEPLOYED BY USING FLASK</H3>
   <H3>HOPE YOU UNDERSTAND</H3>  
      
